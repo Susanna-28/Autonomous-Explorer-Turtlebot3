@@ -1,0 +1,8 @@
+prefix=/root/ws/progetto/catkin_ws/devel
+
+Name: pkg_project
+Description: Description of pkg_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy sensor_msgs std_msgs cv_bridge

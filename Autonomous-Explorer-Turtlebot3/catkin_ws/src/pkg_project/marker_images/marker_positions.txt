@@ -1,0 +1,48 @@
+Marker ID: [5]
+Posizione del marker: (3.9587905886309525, 0.5117349089233658, 0.17091313971962507)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[5].png
+Tempo: 9.816
+Errore: [0.008790588630952278, 0.011734908923365817]
+
+Marker ID: [6]
+Posizione del marker: (1.4312238974823601, 3.1970121631328174, 0.16583188712854136)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[6].png
+Tempo: 14.226
+Errore: [-0.06877610251763988, -0.20298783686718247]
+
+Marker ID: [1]
+Posizione del marker: (-6.904908196337032, 3.0040915282407954, 0.17590545872920071)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[1].png
+Tempo: 65.862
+Errore: [-4.204908196337032, -0.7459084717592046]
+
+Marker ID: [4]
+Posizione del marker: (-7.141073679022689, 3.2741551700866713, 0.1824530326572356)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[4].png
+Tempo: 67.153
+Errore: [-4.441073679022689, -0.47584482991332866]
+
+Marker ID: [0]
+Posizione del marker: (-3.516973642521117, 1.7402273442782872, 0.1704735169649507)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[0].png
+Tempo: 595.585
+Errore: [3.6830263574788833, -1.2597726557217128]
+
+Marker ID: [7]
+Posizione del marker: (-3.1779870512053856, -9.176750128576247, 0.17535986381477184)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[7].png
+Tempo: 2514.366
+Errore: [-6.677987051205386, -6.076750128576247]
+
+Marker ID: [2]
+Posizione del marker: (-2.261402984892215, -1.26461074302784, 0.16577335989447178)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[2].png
+Tempo: 2655.776
+Errore: [0.538597015107785, -2.26461074302784]
+
+Marker ID: [3]
+Posizione del marker: (-1.8925143734188097, -5.155556826161187, 0.17109145591612276)
+Immagine salvata in: /root/ws/progetto/catkin_ws/src/pkg_project/marker_images/marker_[3].png
+Tempo: 8295.068
+Errore: [0.9074856265811901, -4.155556826161187]
+

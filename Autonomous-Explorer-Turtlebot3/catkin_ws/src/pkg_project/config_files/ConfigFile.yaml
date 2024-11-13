@@ -1,0 +1,9 @@
+rgb_topic: "camera/rgb/image_raw"
+depth_topic: "camera/depth/image_raw"
+aruco_dic: "DICT_4X4_50"
+aruco_poses_file: "aruco_poses"
+aruco_max_distance: -1
+aruco_marker_size: 0.1778
+aruco_offset_distance: 0.4
+
+

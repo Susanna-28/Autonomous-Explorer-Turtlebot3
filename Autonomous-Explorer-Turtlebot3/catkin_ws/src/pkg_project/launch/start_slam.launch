@@ -1,0 +1,17 @@
+<launch>
+    <!-- Lancia SLAM con GMapping -->
+    <include file="$(find turtlebot3_slam)/launch/turtlebot3_gmapping.launch"/>
+
+    <!-- Lancia il nodo di esplorazione autonoma -->
+    <node pkg="pkg_project" type="exploration_node.py" name="exploration_node" output="screen"/>
+
+    <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher"/>
+
+    <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher" output="screen"/>
+
+    <!-- Lancia move_base per la pianificazione dei percorsi -->
+    <include file="$(find turtlebot3_navigation)/launch/move_base.launch"/>
+
+    <!-- RViz per visualizzare la mappa e lo stato del robot -->
+    <node pkg="rviz" type="rviz" name="rviz" required="true" args="-d $(find turtlebot3_slam)/rviz/turtlebot3_gmapping.rviz"/>
+</launch>
